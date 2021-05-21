@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Wangj3743
-- 👀 I’m interested in Tetris, Rubik's cubes, programming
-- 🌱 I’m currently learning JS 
+Hi there! 
+I liek Tetris, Rubik's cubes and programming. I know HTML, CSS, JS, Python, & Lua.
 
 <!---
 Wangj3743/Wangj3743 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
